@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584978710165",
+    "project_id": "native-auth-49e44",
+    "storage_bucket": "native-auth-49e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584978710165:android:6781ac9c8bad3c859ca59c",
+        "android_client_info": {
+          "package_name": "com.native_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsIYKcHzHaR2m-NxsOnyf97itY7iTTW_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
